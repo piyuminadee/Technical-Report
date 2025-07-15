@@ -35,3 +35,10 @@ https://chat.deepseek.com/a/chat/s/4108a96c-d2cf-4fea-bc4c-890049f56638
 https://chatgpt.com/share/68755f49-ab08-800c-9f2f-584460b521c8
 
 https://chatgpt.com/share/6872488d-a05c-800c-9af3-d09f37149ac5
+
+
+## for frontend
+- npx create-react-app frontend-new
+- npm install
+- npm start -- --verbose
+- npx react-scripts start
